@@ -18,12 +18,19 @@ ALL DATA WILL BE DELETED AND THE WARRANTY WILL BE LOST!!!
 - General Devices OLD
 ### INSTRUCTIONS
 #### FOR WINDOWS
-- Enable OEM Unlock and ADB Debug on your smartphone (Developer Settings)
-- Install Python3 from the official website: https://www.python.org/
-- Open the cmd and start the program by typing `<dir python.exe> <dir Android_Unlocker-V1.0.0.py>`. remember to also write `python.exe` and `Android_Unlocker-V1.0.0.py`. ES. `C:\python\python.exe C:\Users\<name of your user>\Download\Android_Unlocker-V1.0.0.py`
-- Follow the instructions displayed in the program
-#### OR LINUX
-- Enable OEM Unlock and ADB Debug on your smartphone (Developer Settings)
-- Open the terminal and type `sudo apt install python3` to install Python3
-- Now type `python3 <dir file Android_Unlocker-V1.0.0.py>` remember to also write `Android_Unlocker-V1.0.0.py`
-- Follow the instructions displayed in the program
+
+(sobre todo manten la calma)
+
+descarga el code rar y descomprimelo en una carpeta
+intrucciones entra cmd como administrador pone en el cmd       cd y el link de la carpeta la ubicacion
+recuerda tener instalado python   https://www.python.org/ cuando lo instales te va a parecer algo como un cuadro y dice path lo marcas y lo instalas y reinicia el pc
+esperamos que inicie
+
+despues de reiniciar seguimos con el cmd cd y y el link de la carpeta del rar que descomprimiste
+
+despues de eso de estar a dentro de esa carpeta coloca esto dir python.exe solo una ves
+despues colocarlo
+
+coloca   python.exe Android_Unlocker-V1.0.0.py 
+asi tal cual
+y sigue lo que dice en el cmd recuerda que estara en ingles pero es facil entender las intrucciones en pantalla
