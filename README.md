@@ -33,7 +33,7 @@ despues de reiniciar seguimos con el cmd cd y y el link de la carpeta del rar qu
 despues de eso de estar a dentro de esa carpeta coloca esto dir python.exe solo una ves
 despues colocarlo
 
-coloca   python.exe Android_Unlocker-V1.0.0.py 
+coloca                  python.exe Android_Unlocker-V1.0.0.py 
 
 
 asi tal cual
