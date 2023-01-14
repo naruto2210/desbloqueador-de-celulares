@@ -34,5 +34,7 @@ despues de eso de estar a dentro de esa carpeta coloca esto dir python.exe solo 
 despues colocarlo
 
 coloca   python.exe Android_Unlocker-V1.0.0.py 
+
+
 asi tal cual
 y sigue lo que dice en el cmd recuerda que estara en ingles pero es facil entender las intrucciones en pantalla
