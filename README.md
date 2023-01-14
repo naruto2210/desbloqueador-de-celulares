@@ -22,7 +22,9 @@ ALL DATA WILL BE DELETED AND THE WARRANTY WILL BE LOST!!!
 (sobre todo manten la calma)
 
 descarga el code rar y descomprimelo en una carpeta
+
 intrucciones entra cmd como administrador pone en el cmd       cd y el link de la carpeta la ubicacion
+
 recuerda tener instalado python   https://www.python.org/ cuando lo instales te va a parecer algo como un cuadro y dice path lo marcas y lo instalas y reinicia el pc
 esperamos que inicie
 
